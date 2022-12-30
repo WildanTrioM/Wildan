@@ -1,1 +1,3 @@
-# Wildan
+# Enkripsi XOR
+#Deksripsi XOR
+Tugas
